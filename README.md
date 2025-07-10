@@ -1,9 +1,12 @@
-# たんぽぽ
-![sueqk GitHub stats](https://github-readme-stats.vercel.app/api?username=tampopo256&count_private=true&show_icons=true&theme=dracula)
+# 🌼 たんぽぽ / tampopo256
 
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=tampopo256&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tampopo256&count_private=true&show_icons=true&theme=dracula" alt="tampopo256's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tampopo256&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
+</p>
 
-![f](https://img.shields.io/github/followers/tampopo256?label=Followers&style=social)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftampopo256)
-![tf](https://img.shields.io/twitter/follow/tampopo256?style=social)
-
+<p align="center">
+  <a href="https://github.com/tampopo256">
+    <img src="https://img.shields.io/github/followers/tampopo256?label=GitHub Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
